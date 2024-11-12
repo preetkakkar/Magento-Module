@@ -15,6 +15,17 @@
 &nbsp;
 &nbsp;
 
+##Description:
+This module adds a custom field to the customer registration form, allowing the store to collect additional information during customer sign-up. The new field can be customized to capture any specific data needed by the business, such as "Company Name," "ABN," or other relevant details.
+
+Key features:
+
+    Customizable Extra Field: Adds an additional input field to the registration form, which can be tailored to the store's requirements.
+    Seamless Integration: Integrates with the Magento registration process, ensuring a smooth experience for customers.
+    Data Storage and Management: The information entered in the extra field is stored in the customer database, making it easy for admins to access and manage this data in the customer profile.
+
+This module is ideal for businesses needing more information from customers at registration, helping them personalize service or streamline processes based on collected data.
+
 ## Installation Steps
 
 ##### Step 1 : Download the Zip file from Github & Unzip it
