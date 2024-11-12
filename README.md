@@ -15,7 +15,7 @@
 &nbsp;
 &nbsp;
 
-##Description:
+## Description:
 This module adds a custom field to the customer registration form, allowing the store to collect additional information during customer sign-up. The new field can be customized to capture any specific data needed by the business, such as "Company Name," "ABN," or other relevant details.
 
 Key features:
